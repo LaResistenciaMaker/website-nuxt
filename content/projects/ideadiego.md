@@ -1,32 +1,40 @@
 ---
-lang: en
-title: ideadiego
+lang: es
+title: pagina web
 halted: false
 working_on: true
 hidden: false
-description: A website to share posts, projects and else
+description: Página para compartir proyectos y más
 image: ideadiego.jpg
-alt: ideadiego website
-proudness: 100
-startedAt: July 23, 2021
-finishedAt: July 17, 2022 
+alt: lrweb
+proudness: "100"
+startedAt: Aug 7, 2022
+finishedAt: Aug 8, 2022
 tags:
-  - nuxt 3
-  - tailwindcss 3
-  - javascript 1
+- nuxt 3
+- tailwindcss 3
+- javascript 1
+
 ---
-## Portfolio website
+## Página de LR
 
-In this website I write about what I do.
+Letsgoo la página está arriba copiada de [ideadiego](ideadiego.com "ideadiego.com")
 
-Posts and projects have tags, you can click on them to filter posts and projects with those tags.
+se puede editar desde [forestry](forestry.io "forestry.io")
 
-In the home page there is a <a href="https://d3-graph-gallery.com/wordcloud.html">word cloud</a> based on how many tags there are of any topic, the more tags the bigger the word.
+> Hola que tal
+>
+> \-- owo
 
-Actually I save my tags with a multiplier, for instance this project has a tag nuxt but in the code says `nuxt 3` and for the tag javascript says `javascript 1` so nuxt its 3 times more relevant than javascript for this post and therefore for the word cloud.
+# H1
 
-I used the library <a href="https://github.com/makeupsomething/vue-d3-cloud">vue-d3-cloud</a>
+**bold**
 
-In the post <nuxt-link to="/posts/hello-world">hello-world</nuxt-link> I wrote about why I moved from ruby on rails to nuxt
+     print("hellowo")
 
+* asd
+* qwe
+* zxc
 
+1. uwu
+2. owo
